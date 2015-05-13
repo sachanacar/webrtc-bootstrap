@@ -3,7 +3,7 @@ title: WebRTC Bootstrap
 email: sacha.nacar@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   WebRTC Boostrap is a guide to all the necessary steps, frameworks, and terms to help you deploy your WebRTC solution.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/webrtc-boostrap" # the subpath of your site, e.g. /blog/
 url: "http://sachanacar.github.io" # the base hostname & protocol for your site
 twitter_username: sachanacar
 github_username:  sachanacar
