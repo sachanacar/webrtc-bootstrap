@@ -1,7 +1,7 @@
 #WebRTC Bootstrap
 =================
 
-The site is available at: [https://sachanacar.github.io/webrtc-boostrap](https://sachanacar.github.io/webrtc-boostrap)
+The site is available at: [https://sachanacar.github.io/webrtc-boostrap](https://sachanacar.github.io/webrtc-bootstrap)
 
 ##What is it?
 
